@@ -1,11 +1,8 @@
 # Odontologia DentSalud93
 
 ```sh
-npm run dev
+git clone https://github.com/SolutionCodeCO/DentSalud93.git
 ```
-
-## 🚀 Estructura del proyecto
-
 
 ## 🧞 Construccion
 
